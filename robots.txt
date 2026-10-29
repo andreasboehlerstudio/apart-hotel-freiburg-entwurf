@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Private Gestaltungsvorschau. noindex ist kein Zugriffsschutz.
